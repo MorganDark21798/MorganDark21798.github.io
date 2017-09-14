@@ -1,0 +1,32 @@
+.col_1 {
+  float: left;
+  width: 24%;
+  background-color: orange;
+  color: white;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+.col_2 {
+  float: left;
+  width: 24%;
+  background-color: black;
+  color: white;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+.col_3 {
+  float: right;
+  width: 24%;
+  background-color: blue;
+  color: white;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+.col_4 {
+  float: right;
+  width: 24%;
+  background-color: green;
+  color: white;
+  padding-right: 2px;
+  padding-left: 2px;
+}
