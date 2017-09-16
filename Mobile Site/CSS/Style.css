@@ -1,0 +1,17 @@
+.header {
+  height:50px;
+  width: 100%;
+  background-color: #85d8ff;
+}
+
+.title {
+  color: white;
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.nav {
+  float: right;
+}
