@@ -19,6 +19,16 @@ button {
     padding-right: 8px;
     border: none;
 }
+.sec1 {
+  float:left;
+  background-color: white;
+  width: 49%;
+}
+.sec2 {
+  float: right;
+  background-color: white;
+  width: 49%;
+}
 
 .logo {
  padding-top:10px;
