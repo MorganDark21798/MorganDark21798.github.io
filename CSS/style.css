@@ -1,0 +1,15 @@
+body {
+	padding-top: 50px;
+}
+ .btn1 {
+          margin: 11px;
+          border-radius: 0px;
+          color: #000000;
+          background: #dbddde;
+          padding: 6px 10px 4px 10px;
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 0px;
+		  font-size: 12px;
+		  opacity: 0.5;
+        }
