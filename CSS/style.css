@@ -13,3 +13,83 @@ body {
 		  font-size: 12px;
 		  opacity: 0.5;
         }
+
+ .btn1 {
+
+          margin: 11px;
+
+          border-radius: 0px;
+
+          color: #000000;
+
+          background: #dbddde;
+
+          padding: 6px 10px 4px 10px;
+
+          -webkit-border-radius: 0;
+
+          -moz-border-radius: 0;
+
+          border-radius: 0px;
+
+          font-family: Courier New;
+
+		  font-size: 12px;
+		  opacity: 0.5;
+
+        }
+
+
+      
+
+  .1hd{
+
+	background-color: blue;
+	
+	}
+
+	
+
+	.rbody{
+
+	margin-right: 30px;
+
+	margin-left: 30px;
+
+	background-color: #fff;
+
+	}
+	
+	TBan {
+		padding-left: 0px;
+		padding-right: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	header {
+
+	padding-left: 30px;
+
+	background-color: #661141;
+
+	color: #fff;
+
+	}
+	ecmar {
+		margin: 20px;
+	}
+	.footer {
+	margin-top: 30px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	background-color: #661141;
+	color: #fff;
+
+	}
+	.m30 {
+		margin-bottom: 30px;
+	}
+
+	
