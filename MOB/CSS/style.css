@@ -1,8 +1,17 @@
+@media(max-width: 980px) {
+  html {
+    font-size: 16px;
+  }
+}
+.c1 {
+	padding: 10px;
+	margin: 0px;
+}
 body {
 	padding-top: 50px;
 	padding-bottom: 150px;
-	background: linear-gradient(#33ccff, #ff99cc);
-	height: 100%;
+	background: linear-gradient(#66ff66, #33ccff);
+	height: 100%;#66ff66
 }
 
 /* unvisited link */
