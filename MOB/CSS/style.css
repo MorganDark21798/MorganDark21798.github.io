@@ -1,21 +1,5 @@
-html {
-    font-size: 20px;
-}
-.unbehaved-element {
-    font-size: 2em;
-}
-@media(max-width: 1580px) {
-  html {
-    font-size: 18px;
-  }
-  .unbehaved-element {
-    font-size: 1.9em; /* Fine tune unbehaved elements */
-  }
-}
-@media(max-width: 980px) {
-  html {
-    font-size: 16px;
-  }
+body {
+	font-size: 3em;
 }
 .c1 {
 	padding: 10px;
