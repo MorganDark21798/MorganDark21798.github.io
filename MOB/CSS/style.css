@@ -23,13 +23,19 @@ h6 {
 	font-size: 1em;
 }
 .c1 {
-	padding: 10px;
+	padding: 0px;
 	margin: 0px;
+	float: left;
+}
+img {
+	padding: 0px;
+	margin: 0px;
+	baorder: 0px;
 }
 body {
 	padding-top: 50px;
 	padding-bottom: 150px;
-	background: linear-gradient(#66ff66, #33ccff);
+	background: linear-gradient(#F1F25F, #39EC7B);
 	height: 100%;#66ff66
 }
 
@@ -96,9 +102,9 @@ html, body {
 	}
 	.PP {
 		background-color: #FFF;
-		padding: 5px; 
+		padding: 5px;
 		border-radius: 25px;
-		
+
 	}
 	.MainCon {
 		background-color: #b7b7b7;
@@ -109,10 +115,10 @@ html, body {
   .1hd{
 
 	background-color: blue;
-	
+
 	}
 
-	
+
 
 	.rbody{
 
@@ -123,7 +129,7 @@ html, body {
 	background-color: #fff;
 
 	}
-	
+
 	TBan {
 		padding-left: 0px;
 		padding-right: 0px;
@@ -155,5 +161,3 @@ html, body {
 	.m30 {
 		margin-bottom: 30px;
 	}
-
-	
