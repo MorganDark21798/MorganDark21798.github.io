@@ -33,8 +33,6 @@ img {
 	baorder: 0px;
 }
 body {
-	padding-top: 50px;
-	padding-bottom: 150px;
 	background: linear-gradient(#F1F25F, #39EC7B);
 	height: 100%;#66ff66
 }
@@ -66,7 +64,8 @@ a:active {
 .containter {
 	background-color: #fff;
 	opacity: 0.5;
-	padding: 10px;
+	padding-left: 5%;
+	padding-right: 5%;
 	margin: 0px;
 }
 img {
