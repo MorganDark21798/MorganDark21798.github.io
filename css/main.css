@@ -9,6 +9,7 @@ body {
 a {
   color: lightgreen;
 }
+<<<<<<< HEAD
 h1 {
   color: lightgreen;
 }
@@ -25,3 +26,8 @@ button {
   display: inline-block;
   font-size: 16px;
 }
+=======
+Projects {
+ padding-left: 10%;
+}
+>>>>>>> bbb098bf8ea278e9169427bd302f395ef1bd8c4c
