@@ -38,6 +38,18 @@ tag {
   background-color: yellow;
   color: black;
 }
+#Paper {
+  background-color: Pink;
+  color: black;
+}
+#Review {
+  background-color: #ffaaf9;
+  color: black;
+}
+#Social {
+  background-color: #f29e74;
+  color: black;
+}
 #CSS {
   background-color:  #ffaa00 ;
 }
