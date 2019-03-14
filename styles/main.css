@@ -24,35 +24,45 @@ Projects {
 #w {
   padding-right: 20px;
 }
+.marw15 {
+  padding-left: 5%;
+  padding-right: 5%;
+}
 tag {
   padding-left: 8px;
   padding-right: 8px;
   border-radius: 25px;
   margin-left: 10px;
 }
+audio {
+  display:none;
+}
 
 #HTML {
   background-color: lightblue ;
+  color: grey;
 }
 #Audio {
   background-color: yellow;
-  color: black;
+  color: grey;
 }
 #Paper {
   background-color: Pink;
-  color: black;
+  color: grey;
 }
 #Review {
   background-color: #ffaaf9;
-  color: black;
+  color: grey;
 }
 #Social {
   background-color: #f29e74;
-  color: black;
+  color: grey;
 }
 #CSS {
   background-color:  #ffaa00 ;
+  color: grey;
 }
 #Python {
   background-color: lightgreen ;
+  color: grey;
 }
