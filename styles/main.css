@@ -74,3 +74,16 @@ audio {
   background-color: lightgreen ;
   color: grey;
 }
+#tc {
+  background-color: lightgrey ;
+}
+#h1 {
+  background-color: #ADAEAC ;
+  color: white;
+  text-align: center;
+}
+#links {
+    background-color: #ADAEAC ;
+    color: grey;
+    text-align: center;
+}
